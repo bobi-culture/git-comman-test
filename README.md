@@ -1,4 +1,4 @@
-# git-comman-test
+# git-command-test
 
 A change in Feature Folder`
 
