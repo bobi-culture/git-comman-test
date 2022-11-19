@@ -2,5 +2,5 @@
 
 import os, sys
 
-#print(os.getcwd())
+print(os.getcwd())
 print("Hello BABAK")
